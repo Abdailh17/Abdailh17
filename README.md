@@ -9,13 +9,6 @@
 🎓 طالب ذكاء اصطناعي في جامعة أم القرى (UQU) | AI Student at UQU  
 🚀 مهتم بعلوم الحاسب، الذكاء الاصطناعي، وهندسة الأتمتة (Automation)  
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <be>
-
-</details>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=fahad-bdahdah&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abdullah_Badadah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
 [![X (Twitter) Badge](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)](https://x.com/AbdullahB467) <br>
