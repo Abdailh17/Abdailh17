@@ -5,7 +5,7 @@
 
 ### 👋 أهلاً بك في حسابي! | Welcome to my GitHub
 
-**عبدالله فهد بادحدح** | Abdullah Fahad Badadah  
+ Abdullah Fahad Badadah  
 🎓 طالب ذكاء اصطناعي في جامعة أم القرى (UQU) | AI Student at UQU  
 🚀 مهتم بعلوم الحاسب، الذكاء الاصطناعي، وهندسة الأتمتة (Automation)  
 
