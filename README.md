@@ -19,10 +19,8 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```python
 # tools_I_use organized
@@ -34,6 +32,6 @@ class AboutMe:
             "ProgrammingLanguage": {"Python"},
             "Web & Automation": {"n8n", "Webhooks"},
             "Editors": {"VS Code"},
-            "Platforms": {"GNU/Linux", "Windows"},
-            "Tools": {"Git", "Figma"}
+            "Platforms": {"Windows"},
+            "Tools": {"Git"}
         }
