@@ -5,7 +5,7 @@
 
 ### 👋 Welcome to my GitHub!
 
-**Abdullah Fahad Badadah**  
+**Abdullah Badadah**  
 🎓 Artificial Intelligence Student at Umm Al-Qura University (UQU)  
 🚀 Passionate about Computer Science, AI, and Workflow Automation  
 
