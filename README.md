@@ -34,14 +34,12 @@
 
 ### `AboutMe.py`
 
-```python
-class AboutMe:
+<pre lang="python"><code>class AboutMe:
     name = "Abdullah Badahdah"
     major = "Artificial Intelligence"
     university = "UQU"
     location = "Makkah"
-    goal = "Build useful things"
-```
+    goal = "Build useful things"</code></pre>
 
 </td>
 </tr>
