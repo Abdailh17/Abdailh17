@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260"><defs><linearGradient id="bg"><stop stop-color="#041326"/><stop offset=".65" stop-color="#071e38"/><stop offset="1" stop-color="#06142c"/></linearGradient><linearGradient id="blue"><stop stop-color="#03e8ff"/><stop offset="1" stop-color="#2166ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1278" height="258" x="1" y="1" rx="19" fill="url(#bg)" stroke="#128cd1" stroke-width="2"/><path d="M15 190V237H200 M1000 15H1260V66" stroke="#12d8ff" stroke-width="3" fill="none" filter="url(#glow)"/>
+<g transform="translate(115 39)" stroke="#35deff" stroke-width="3" fill="#062142"><path d="M40 130 H185 L168 165H59Z"/><ellipse cx="113" cy="129" rx="71" ry="11" fill="#053d65"/><path d="M75 110 Q44 91 63 70 Q44 30 87 23 Q101 -7 132 25 Q177 15 179 57 Q215 86 169 113Z" fill="#0a3458"/><path d="M77 111V65 Q62 36 95 37 Q106 7 131 42 Q157 25 166 57V111" fill="none"/><path d="M110 111V34" opacity=".35"/></g>
+<path d="M40 220 Q170 169 325 225" stroke="#1374d0" fill="none"/><path d="M300 0V260" stroke="#1686c2" stroke-width="1" opacity=".3"/>
+<text x="375" y="51" font-family="monospace" font-size="20" fill="#52d9ff" letter-spacing="3">FEATURED BUILD / 001</text>
+<text x="375" y="103" font-family="Arial,sans-serif" font-size="43" font-weight="bold" fill="#ffffff">وجبتي  |  WAJBATI</text>
+<text x="375" y="143" font-family="Arial,sans-serif" font-size="22" fill="#c3e8ff">Your ingredients. Your next meal.</text>
+<text x="375" y="179" font-family="Arial,sans-serif" font-size="18" fill="#91c5e5">Smart recipe discovery • dietary preferences • cooking time</text>
+<rect x="375" y="197" width="221" height="42" rx="11" fill="url(#blue)"/><text x="485" y="224" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#001c30">EXPLORE PROJECT  ↗</text>
+<path d="M1035 80L1220 80M1094 110L1250 110M1120 140L1240 140M1140 170L1260 170" stroke="#1fbcff" opacity=".23" stroke-width="2"/></svg>
