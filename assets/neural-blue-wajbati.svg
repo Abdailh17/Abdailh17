@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#041021"/><stop offset=".58" stop-color="#082c51"/><stop offset="1" stop-color="#031326"/></linearGradient>
+<linearGradient id="neon" x1="0" x2="1"><stop stop-color="#00f0ff"/><stop offset="1" stop-color="#1985ff"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#00f5ff" stop-opacity=".42"/><stop offset="1" stop-color="#00f5ff" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" width="200%" y="-50%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="3" y="3" width="1194" height="324" rx="28" fill="url(#bg)" stroke="#1687d3" stroke-width="3"/>
+<rect x="5" y="5" width="1190" height="320" rx="27" fill="none" stroke="#65e9ff" stroke-opacity=".23"/>
+<path d="M33 72V35H190M1166 266V297H1024" fill="none" stroke="#00dcff" stroke-width="4" filter="url(#glow)"/>
+<circle cx="223" cy="174" r="178" fill="url(#orb)"/>
+<g opacity=".33" stroke="#1696cd" stroke-width="1"><path d="M20 300L350 78M33 319L440 36M122 329L515 50M0 247L247 76M50 89L350 325M92 45L418 314"/></g>
+<g stroke="#48eaff" stroke-width="5" fill="#07254c" filter="url(#glow)" stroke-linejoin="round">
+<path d="M141 187Q99 165 123 123Q118 93 151 79Q159 47 195 51Q223 27 253 54Q290 46 303 82Q339 95 328 132Q362 168 329 197Q319 225 284 232L164 231Q132 224 141 187Z"/>
+<path d="M170 224V162M196 229V117M226 229V98M258 229V117M285 226V150" stroke-opacity=".55" stroke-width="3"/>
+<path d="M139 154Q217 131 325 157M161 104Q221 87 302 111" fill="none" stroke-width="3"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="426" y="68" fill="#58dfff" font-family="monospace" font-size="19" font-weight="bold" letter-spacing="4">FEATURED PROJECT  /  001</text>
+<text x="423" y="135" fill="#ffffff" font-size="60" font-weight="bold">WAJBATI</text>
+<text x="735" y="135" fill="#58dcff" font-size="33">|</text>
+<text x="760" y="135" fill="#d5f7ff" font-size="36" font-weight="bold">وجبتي</text>
+<text x="428" y="180" fill="#d5efff" font-size="29">Your ingredients. Your next meal.</text>
+<text x="429" y="213" fill="#8fc4e4" font-size="22">Smart recipes  ·  Dietary options  ·  Cooking time</text>
+</g>
+<rect x="426" y="237" width="309" height="55" rx="14" fill="url(#neon)" filter="url(#glow)"/>
+<text x="580" y="273" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#00162a">OPEN LIVE PROJECT  ↗</text>
+<rect x="993" y="40" width="157" height="39" rx="18" fill="#072a47" stroke="#41ddff"/>
+<text x="1072" y="65" text-anchor="middle" fill="#98eeff" font-family="Arial,sans-serif" font-size="17">CLICKABLE CARD</text>
+</svg>
