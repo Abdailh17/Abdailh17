@@ -1,37 +1,80 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Abdailh17" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Abdailh17" alt="Workspace" width="40%"/><br> 
+<img src="./assets/midnight-ai-01-banner.png" alt="Abdullah Badahdah — AI student, blue cinematic Makkah and neural technology header" width="100%" />
 
-### 👋 Welcome to my GitHub!
+<br />
 
-**Abdullah Badadah**  
-🎓 Artificial Intelligence Student at Umm Al-Qura University (UQU)  
-🚀 Passionate about Computer Science, AI, and Workflow Automation  
+**`AI STUDENT`** &nbsp; ✦ &nbsp; **`DEVELOPER`** &nbsp; ✦ &nbsp; **`MAKKAH`**
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Abdailh17&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abdullah_Badadah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
-[![X (Twitter) Badge](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)](https://x.com/AbdullahB467) <br>
+<a href="https://github.com/Abdailh17"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-071A30?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdullah-badahdah-b726653a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-071A30?style=for-the-badge&logo=linkedin&logoColor=23D4FF" /></a>
+<a href="https://x.com/AbdullahB467"><img alt="X" src="https://img.shields.io/badge/X-071A30?style=for-the-badge&logo=x&logoColor=white" /></a>
+
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+### `>_ whoami`
+
+**Hey, I'm Abdullah Badahdah.** 👋
+
+Artificial Intelligence student at **Umm Al-Qura University**. I enjoy turning ideas into real software, from Python experiments to full web projects.
+
+`AI & Machine Learning` &nbsp; `Data Analysis` &nbsp; `Web Development`
+
+<details>
+<summary>💻 <b>Open developer terminal</b> — real, copyable Python</summary>
 
 ```python
-# tools_I_use organized
+class Abdullah:
+    name = "Abdullah Badahdah"
+    major = "Artificial Intelligence"
+    university = "Umm Al-Qura University"
+    location = "Makkah, Saudi Arabia"
+    skills = ["Python", "OOP", "SQL", "Git", "Web Development"]
 
-class AboutMe:
-    def __init__(self):
-        self.major = "Artificial Intelligence @ UQU"
-        self.my_tools = {
-            "ProgrammingLanguage": {"Python"},
-            "Web & Automation": {"n8n", "Webhooks"},
-            "Editors": {"VS Code"},
-            "Platforms": {"Windows"},
-            "Tools": {"Git"}
-        }
+    def next_step(self):
+        return "Learn. Build. Improve."
+```
+
+</details>
+
+### `>_ tech_stack --list`
+
+<div align="center">
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="58" height="58" alt="Python" /></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="58" height="58" alt="MySQL" /></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="58" height="58" alt="Git" /></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="58" height="58" alt="GitHub" /></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="58" height="58" alt="VS Code" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="58" height="58" alt="HTML" /></a>
+
+<br />
+
+<sub>Python · SQL / MySQL · Object-Oriented Programming · Web Development · Git & GitHub</sub>
+
+</div>
+
+### `>_ featured_project --open`
+
+<div align="center">
+
+<a href="https://wajbati-sa.vercel.app/"><img src="./assets/neural-blue-wajbati.svg" width="100%" alt="Wajbati project — clickable card to launch the live recipe discovery app" /></a>
+
+<a href="https://github.com/Abdailh17/wajbati"><img alt="Wajbati Source Code" src="https://img.shields.io/badge/EXPLORE_WAJBATI_SOURCE-071A30?style=for-the-badge&logo=github&logoColor=23D4FF" /></a>
+
+</div>
+
+### `>_ explore --more`
+
+<div align="center">
+
+<a href="https://github.com/Abdailh17?tab=repositories"><img src="./assets/neural-blue-projects.svg" width="49%" alt="Browse Abdullah's GitHub projects and repositories" /></a>
+<a href="https://www.linkedin.com/in/abdullah-badahdah-b726653a7/"><img src="./assets/neural-blue-connect.svg" width="49%" alt="Connect with Abdullah on LinkedIn" /></a>
+
+<br />
+
+<sub>My live contribution calendar is available on <a href="https://github.com/Abdailh17?tab=overview">GitHub Overview</a>. No illustrated activity counts.</sub>
+
+</div>
