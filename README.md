@@ -1,107 +1,103 @@
 <div align="center">
 
-# Abdullah Badahdah<span>_</span>
-
-**`AI STUDENT`  ·  `DEVELOPER`  ·  `MAKKAH, SAUDI ARABIA`**
-
-Artificial Intelligence Student at **Umm Al-Qura University**  
-Turning ideas into useful projects, one line of code at a time.
-
-[**GitHub**](https://github.com/Abdailh17) &nbsp; • &nbsp; [**LinkedIn**](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/) &nbsp; • &nbsp; [**X**](https://x.com/AbdullahB467)
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/midnight-ai-01-banner.png" width="100%" alt="Abdullah Badahdah — Midnight AI cinematic banner" />
 
 ### `>_ Hi there! 👋`
 
-I'm **Abdullah Badahdah**, an Artificial Intelligence student who enjoys learning by building.
+**I'm Abdullah Badahdah**  
+🎓 Artificial Intelligence Student at **Umm Al-Qura University** · 📍 Makkah, Saudi Arabia
 
-- 🎓 Studying **Artificial Intelligence** at **UQU**
-- 📍 Based in **Makkah**
-- 🧠 Interested in **AI, data, and software development**
-- 🛠️ Working with **Python, SQL, Git, and the web**
-- 🚀 Building and improving practical projects
+*Building useful projects with code, one idea at a time.*
 
-</td>
-<td width="50%" valign="top">
+[![GitHub](https://img.shields.io/badge/GitHub-0A1424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1424?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
+[![X](https://img.shields.io/badge/X-0A1424?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
 
-### `AboutMe.py`
-
-<pre lang="python"><code>class AboutMe:
-    name = "Abdullah Badahdah"
-    major = "Artificial Intelligence"
-    university = "Umm Al-Qura University"
-    city = "Makkah"
-
-    skills = [
-        "Python", "OOP", "SQL",
-        "Web Development", "Git"
-    ]
-
-    goal = "Build useful things"</code></pre>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-### ⚡ Tech Stack
+### 👨‍💻 About Me
 
-| Category | Technologies |
-| :-- | :-- |
-| Programming | `Python` · `OOP` |
-| Databases | `SQL` · `MySQL` |
-| Development | `Web Development` |
-| Tools | `Git` · `GitHub` · `VS Code` |
+- 🎓 **Major:** Artificial Intelligence
+- 🏛️ **University:** Umm Al-Qura University
+- 💻 **Skills:** Python, OOP, SQL, Web Development
+- 🧠 **Interests:** AI, Data Analysis, Software Development
+- 🎯 **Goal:** Learn by building real projects
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-### 🎯 Currently Exploring
+### `AboutMe.py`
 
-`Artificial Intelligence`  
-`Data Analysis`  
-`Machine Learning`  
-`Software Development`
-
-<br />
-
-*Learning, practicing, and turning concepts into real projects.*
+```python
+class AboutMe:
+    name = "Abdullah Badahdah"
+    major = "Artificial Intelligence"
+    university = "UQU"
+    location = "Makkah"
+    goal = "Build useful things"
+```
 
 </td>
 </tr>
 </table>
 
----
-
-### 🚀 Featured Project — **وجبتي | Wajbati**
-
-A recipe discovery website that helps users find meals using their available ingredients, with options for cooking time and dietary preferences.
-
-**[🌐 Visit Wajbati](https://wajbati-sa.vercel.app/)** &nbsp; | &nbsp; **[⌘ Explore the Code](https://github.com/Abdailh17/wajbati)**
-
----
-
-### 📈 GitHub Activity
-
-Contributions and repositories are shown live on GitHub — no illustrated or outdated numbers.
-
-**[↗ View my contribution graph](https://github.com/Abdailh17?tab=overview)** &nbsp; | &nbsp; **[↗ View my repositories](https://github.com/Abdailh17?tab=repositories)**
+### ⚡ Tech Stack
 
 <div align="center">
 
----
-
-<sub>Made with Markdown, HTML & Python-style code — not a static profile screenshot.</sub>
+![Python](https://img.shields.io/badge/Python-0B1422?style=for-the-badge&logo=python&logoColor=FFD43B)
+![MySQL](https://img.shields.io/badge/MySQL-0B1422?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/SQL-0B1422?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0B1422?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Git](https://img.shields.io/badge/Git-0B1422?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B1422?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1422?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
 
 </div>
+
+### 🎯 Currently Exploring
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0B1422?style=flat-square&logo=probot&logoColor=A5B4FC)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0B1422?style=flat-square&logo=python&logoColor=A5B4FC)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0B1422?style=flat-square&logo=scikitlearn&logoColor=A5B4FC)
+![Web Development](https://img.shields.io/badge/Web_Development-0B1422?style=flat-square&logo=html5&logoColor=A5B4FC)
+
+</div>
+
+---
+
+### 🚀 Featured Project
+
+<table>
+<tr>
+<td valign="top">
+
+#### [وجبتي | Wajbati](https://wajbati-sa.vercel.app/)
+
+A web app that helps you discover recipes based on the ingredients you have, with cooking-time and dietary filters.
+
+[![Live App](https://img.shields.io/badge/Explore_Wajbati-0B1422?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://wajbati-sa.vercel.app/)
+[![Code](https://img.shields.io/badge/Source_Code-0B1422?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17/wajbati)
+
+</td>
+</tr>
+</table>
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdailh17&theme=github_dark)](https://github.com/Abdailh17?tab=overview)
+
+[![View Live Contributions](https://img.shields.io/badge/View_Live_Contributions-0B1422?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=overview)
+
+</div>
+
