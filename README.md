@@ -74,28 +74,26 @@
 
 ### 🚀 Featured Project
 
-<table>
-<tr>
-<td valign="top">
+#### 🍽️ [وجبتي | Wajbati](https://wajbati-sa.vercel.app/)
 
-#### [وجبتي | Wajbati](https://wajbati-sa.vercel.app/)
+**From what's in your kitchen to what you can cook.**
 
-A web app that helps you discover recipes based on the ingredients you have, with cooking-time and dietary filters.
+A recipe discovery website that suggests meals based on your ingredients, cooking time, and dietary preferences.
 
-[![Live App](https://img.shields.io/badge/Explore_Wajbati-0B1422?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://wajbati-sa.vercel.app/)
-[![Code](https://img.shields.io/badge/Source_Code-0B1422?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17/wajbati)
+[![Try Wajbati](https://img.shields.io/badge/OPEN_LIVE_PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://wajbati-sa.vercel.app/)
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-0B1422?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17/wajbati)
 
-</td>
-</tr>
-</table>
+---
 
 ### 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdailh17&theme=github_dark)](https://github.com/Abdailh17?tab=overview)
+**Real contributions, projects, and development activity**
 
-[![View Live Contributions](https://img.shields.io/badge/View_Live_Contributions-0B1422?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=overview)
+[![Contribution Graph](https://img.shields.io/badge/CONTRIBUTION_GRAPH-0B1422?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=overview)
+[![My Repositories](https://img.shields.io/badge/MY_REPOSITORIES-0B1422?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=repositories)
+
+<sub>GitHub shows the up-to-date contribution calendar on my profile.</sub>
 
 </div>
-
