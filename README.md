@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/midnight-ai-original.png" alt="Midnight AI — visual concept for Abdullah Badahdah's GitHub profile" width="100%" />
+<img src="./assets/midnight-ai-banner.svg" alt="Midnight AI — Abdullah Badahdah banner" width="100%" />
 
 ### `>_ Hi there! 👋`
 
@@ -66,4 +66,4 @@ class AboutMe:
 
 </div>
 
-<!-- The top artwork is a static concept image. Any figures depicted inside it are illustrative, not live metrics. Interactive links, code, badges and GitHub activity appear below it. -->
+<!-- The banner is decorative; the profile content and links below are real README elements. The original full concept image remains saved in assets/midnight-ai-original.png for reference. -->
