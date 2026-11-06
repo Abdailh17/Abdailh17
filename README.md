@@ -1,75 +1,76 @@
 <div align="center">
 
-<img src="./assets/midnight-ai-01-banner.png" alt="Abdullah Badahdah | AI Student and Developer | Midnight Blue" width="100%" />
+<img src="./assets/cyber-blue-hero.svg" alt="Abdullah Badahdah — neon blue artificial intelligence profile banner" width="100%" />
 
 <br />
 
-`AI STUDENT` &nbsp; ✦ &nbsp; `DEVELOPER` &nbsp; ✦ &nbsp; `MAKKAH`
-
-[![GitHub](https://img.shields.io/badge/GitHub-06172D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-06172D?style=for-the-badge&logo=linkedin&logoColor=00C8FF)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
-[![X](https://img.shields.io/badge/X-06172D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
+[![GitHub](https://img.shields.io/badge/GITHUB-041C32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-041C32?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
+[![X](https://img.shields.io/badge/X-041C32?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
 
 </div>
 
----
+### `01 / ABOUT.ME()`
 
-### `01 / HELLO WORLD` 👋
+<table>
+<tr>
+<td width="54%" valign="top">
 
-I'm **Abdullah Badahdah**, an Artificial Intelligence student at **Umm Al-Qura University**. I enjoy exploring AI, learning new technologies, and building useful software.
+#### 👋 Hello, World!
 
-> **My approach:** `LEARN → BUILD → IMPROVE`
+I'm **Abdullah Badahdah**, an **Artificial Intelligence** student at **Umm Al-Qura University** in Makkah.
 
-<details>
-<summary>⌘ <b>Open my developer terminal</b></summary>
+I enjoy building useful projects, exploring AI, and improving my skills by creating real things.
 
-```python
-class Abdullah:
+`AI` &nbsp; `Data Analysis` &nbsp; `Web Development`
+
+</td>
+<td width="46%" valign="top">
+
+#### `developer.py`
+
+<pre lang="python"><code>class Abdullah:
     major = "Artificial Intelligence"
-    university = "Umm Al-Qura University"
-    location = "Makkah, Saudi Arabia"
-    skills = ["Python", "OOP", "SQL", "Web Development", "Git"]
+    university = "UQU"
+    location = "Makkah"
+    stack = ["Python", "SQL", "Git"]
+    goal = "Build useful things"</code></pre>
 
-    def goal(self):
-        return "Turn ideas into useful projects"
-```
+</td>
+</tr>
+</table>
 
-</details>
-
-### `02 / MY TECH STACK` ⚡
+### `02 / TOOLKIT.EXE`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-06172D?style=for-the-badge&logo=python&logoColor=FFD43B)
-![MySQL](https://img.shields.io/badge/MySQL-06172D?style=for-the-badge&logo=mysql&logoColor=00C8FF)
-![Git](https://img.shields.io/badge/Git-06172D?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-06172D?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-06172D?style=for-the-badge&logo=visualstudiocode&logoColor=00C8FF)
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css&amp;theme=dark&amp;perline=7" alt="Python, MySQL, Git, GitHub, VS Code, HTML and CSS" />
 
-`Object-Oriented Programming` &nbsp; `SQL` &nbsp; `Web Development` &nbsp; `Data Analysis`
+<br />
+
+`Python` &nbsp; `OOP` &nbsp; `SQL` &nbsp; `Web Development` &nbsp; `Data Analysis`
 
 </div>
 
-### `03 / FEATURED PROJECT` 🚀
-
-**🍽️ [وجبتي | WAJBATI](https://wajbati-sa.vercel.app/)**
-
-**Your ingredients, your next meal.** A website that suggests recipes from the ingredients you have, with cooking-time and dietary options.
-
-[![Launch Wajbati](https://img.shields.io/badge/LAUNCH_WAJBATI-007FAE?style=for-the-badge&logo=vercel&logoColor=white)](https://wajbati-sa.vercel.app/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-06172D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17/wajbati)
-
-### `04 / ACTIVITY & WHAT'S NEXT` 📈
-
-Currently exploring **AI**, **data analysis**, and **software development**, one project at a time.
-
-[![Live GitHub activity](https://img.shields.io/badge/VIEW_LIVE_CONTRIBUTIONS-06172D?style=for-the-badge&logo=github&logoColor=00C8FF)](https://github.com/Abdailh17?tab=overview)
-[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-06172D?style=for-the-badge&logo=github&logoColor=00C8FF)](https://github.com/Abdailh17?tab=repositories)
+### `03 / FEATURED.BUILD`
 
 <div align="center">
 
----
+<a href="https://wajbati-sa.vercel.app/"><img src="./assets/cyber-blue-wajbati.svg" alt="Wajbati: smart recipe discovery project, open the website" width="100%" /></a>
 
-<sub>`ABDULLAH.BADAHDAH // END OF FILE`</sub>
+[![VIEW SOURCE CODE](https://img.shields.io/badge/VIEW_SOURCE_CODE-051C33?style=for-the-badge&logo=github&logoColor=11D5FF)](https://github.com/Abdailh17/wajbati)
+
+</div>
+
+### `04 / LIVE.ACTIVITY`
+
+<div align="center">
+
+**Explore what I'm building on GitHub**
+
+[![CONTRIBUTIONS](https://img.shields.io/badge/LIVE_CONTRIBUTIONS-041C32?style=for-the-badge&logo=github&logoColor=15D9FF)](https://github.com/Abdailh17?tab=overview)
+[![REPOSITORIES](https://img.shields.io/badge/MY_REPOSITORIES-041C32?style=for-the-badge&logo=github&logoColor=15D9FF)](https://github.com/Abdailh17?tab=repositories)
+
+<sub>No static or invented GitHub stats. GitHub displays my current contributions on my profile.</sub>
 
 </div>
