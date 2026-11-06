@@ -1,37 +1,60 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Abdailh17" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Abdailh17" alt="Workspace" width="40%"/><br> 
+![Midnight AI Banner](./assets/midnight-ai-banner.svg)
 
-### 👋 Welcome to my GitHub!
+### 👋 Hi there! I'm Abdullah Badahdah
 
-**Abdullah Badadah**  
-🎓 Artificial Intelligence Student at Umm Al-Qura University (UQU)  
-🚀 Passionate about Computer Science, AI, and Workflow Automation  
+**Artificial Intelligence Student @ Umm Al-Qura University**  
+Building practical solutions with code and exploring modern technologies.
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Abdailh17&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abdullah_Badadah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
-[![X (Twitter) Badge](https://img.shields.io/badge/X-Profile-black?style=flat&logo=x)](https://x.com/AbdullahB467) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-0b1730?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
+[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
+
+![Profile views](https://komarev.com/ghpvc/?username=Abdailh17&color=0e75b6&style=flat-square)
+
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+### 🧠 AboutMe.py
 
 ```python
-# tools_I_use organized
-
 class AboutMe:
     def __init__(self):
-        self.major = "Artificial Intelligence @ UQU"
-        self.my_tools = {
-            "ProgrammingLanguage": {"Python"},
-            "Web & Automation": {"n8n", "Webhooks"},
-            "Editors": {"VS Code"},
-            "Platforms": {"Windows"},
-            "Tools": {"Git"}
-        }
+        self.name = "Abdullah Badahdah"
+        self.major = "Artificial Intelligence"
+        self.university = "Umm Al-Qura University"
+        self.interests = ["AI", "Web Development", "Data Analysis"]
+        self.tools = ["Python", "SQL", "Git", "GitHub", "VS Code"]
+        self.goal = "Build useful and impactful projects"
+```
+
+### ⚡ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0b1730?style=for-the-badge&logo=python&logoColor=ffde57)
+![MySQL](https://img.shields.io/badge/MySQL-0b1730?style=for-the-badge&logo=mysql&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/Git-0b1730?style=for-the-badge&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-0b1730?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0b1730?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
+
+</div>
+
+### 🎯 Currently Exploring
+
+`Artificial Intelligence` · `Data Analysis` · `Web Development`
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdailh17&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdailh17&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+<div align="center"><sub>Designed with curiosity · Midnight AI</sub></div>
