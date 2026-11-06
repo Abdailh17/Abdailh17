@@ -1,50 +1,38 @@
 <div align="center">
 
-![Midnight AI Banner](./assets/midnight-ai-banner.svg)
+![Midnight AI — Abdullah Badahdah](./assets/midnight-ai-banner.svg)
 
-### 👋 Hi there! I'm Abdullah Badahdah
+![Introduction and AboutMe.py](./assets/midnight-ai-intro.svg)
 
-**Artificial Intelligence Student @ Umm Al-Qura University**  
-Building practical solutions with code and exploring modern technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-0b1730?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
-[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
-
-![Profile views](https://komarev.com/ghpvc/?username=Abdailh17&color=0e75b6&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1422?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1422?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
+[![X](https://img.shields.io/badge/X-0B1422?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
 
 </div>
 
 ---
 
-### 🧠 AboutMe.py
-
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Abdullah Badahdah"
-        self.major = "Artificial Intelligence"
-        self.university = "Umm Al-Qura University"
-        self.interests = ["AI", "Web Development", "Data Analysis"]
-        self.tools = ["Python", "SQL", "Git", "GitHub", "VS Code"]
-        self.goal = "Build useful and impactful projects"
-```
+<table><tr><td width="50%" valign="top">
 
 ### ⚡ Tech Stack
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-0B1422?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-0B1422?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-0B1422?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Web](https://img.shields.io/badge/Web-0B1422?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Git](https://img.shields.io/badge/Git-0B1422?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B1422?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1422?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
 
-![Python](https://img.shields.io/badge/Python-0b1730?style=for-the-badge&logo=python&logoColor=ffde57)
-![MySQL](https://img.shields.io/badge/MySQL-0b1730?style=for-the-badge&logo=mysql&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0b1730?style=for-the-badge&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-0b1730?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0b1730?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
-
-</div>
+</td><td width="50%" valign="top">
 
 ### 🎯 Currently Exploring
 
-`Artificial Intelligence` · `Data Analysis` · `Web Development`
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0B1422?style=for-the-badge&logo=probot&logoColor=A5B4FC)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0B1422?style=for-the-badge&logo=python&logoColor=A5B4FC)
+![Web Development](https://img.shields.io/badge/Web_Development-0B1422?style=for-the-badge&logo=codeium&logoColor=A5B4FC)
+
+</td></tr></table>
 
 ### 📊 GitHub Activity
 
@@ -54,7 +42,6 @@ class AboutMe:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdailh17&theme=github-dark-blue&hide_border=true)
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=Abdailh17&color=0e75b6&style=flat-square)
 
----
-<div align="center"><sub>Designed with curiosity · Midnight AI</sub></div>
+</div>
