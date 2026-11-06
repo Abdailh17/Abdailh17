@@ -1,99 +1,145 @@
 <div align="center">
 
-<img src="./assets/midnight-ai-01-banner.png" width="100%" alt="Abdullah Badahdah — Midnight AI cinematic banner" />
+<img src="./assets/midnight-ai-01-banner.png" width="100%" alt="Midnight AI — Abdullah Badahdah, Makkah cinematic banner" />
 
-### `>_ Hi there! 👋`
+### `> SYSTEM ONLINE_ // ABDULLAH BADAHDAH`
 
-**I'm Abdullah Badahdah**  
-🎓 Artificial Intelligence Student at **Umm Al-Qura University** · 📍 Makkah, Saudi Arabia
+**AI Student** &nbsp;·&nbsp; **Developer** &nbsp;·&nbsp; **Builder**
 
-*Building useful projects with code, one idea at a time.*
+`📍 Makkah` &nbsp; `🎓 Umm Al-Qura University` &nbsp; `🧠 Artificial Intelligence`
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A1424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1424?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
-[![X](https://img.shields.io/badge/X-0A1424?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
+[![GitHub](https://img.shields.io/badge/GITHUB-071627?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-071627?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/abdullah-badahdah-b726653a7/)
+[![X](https://img.shields.io/badge/X-071627?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbdullahB467)
 
 </div>
 
 ---
 
+### `01 / THE PERSON BEHIND THE CODE`
+
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="56%" valign="top">
 
-### 👨‍💻 About Me
+<h3>👋 Hello, World!</h3>
 
-- 🎓 **Major:** Artificial Intelligence
-- 🏛️ **University:** Umm Al-Qura University
-- 💻 **Skills:** Python, OOP, SQL, Web Development
-- 🧠 **Interests:** AI, Data Analysis, Software Development
-- 🎯 **Goal:** Learn by building real projects
+I'm <b>Abdullah Badahdah</b>, an Artificial Intelligence student at Umm Al-Qura University.
+
+I like turning ideas into working projects, exploring what AI can do, and learning by actually building things.
+
+<p><code>Focus:</code> AI · Python · Data · Web Development</p>
+<p><code>Approach:</code> Learn → Build → Improve → Repeat</p>
 
 </td>
-<td width="48%" valign="top">
+<td width="44%" valign="top">
 
-### `AboutMe.py`
+<h3>⌘ developer.config</h3>
 
-<pre lang="python"><code>class AboutMe:
-    name = "Abdullah Badahdah"
-    major = "Artificial Intelligence"
-    university = "UQU"
-    location = "Makkah"
-    goal = "Build useful things"</code></pre>
+<pre><code>name       = Abdullah
+major      = AI
+university = UQU
+city       = Makkah
+
+mode       = LEARNING
+mission    = BUILD_THINGS
+curiosity  = ALWAYS_ON</code></pre>
 
 </td>
 </tr>
 </table>
 
-### ⚡ Tech Stack
+### `02 / MY TOOLKIT`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B1422?style=for-the-badge&logo=python&logoColor=FFD43B)
-![MySQL](https://img.shields.io/badge/MySQL-0B1422?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![SQL](https://img.shields.io/badge/SQL-0B1422?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0B1422?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Git](https://img.shields.io/badge/Git-0B1422?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0B1422?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0B1422?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+[![Python](https://img.shields.io/badge/PYTHON-0A1728?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MYSQL-0A1728?style=for-the-badge&logo=mysql&logoColor=38BDF8)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/GIT-0A1728?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A1728?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_CODE-0A1728?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)](https://code.visualstudio.com/)
+
+`OOP` &nbsp; `SQL` &nbsp; `Web Development` &nbsp; `Data Analysis with Python`
 
 </div>
 
-### 🎯 Currently Exploring
+### `03 / CURRENT SIGNALS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 Learning</h3>
+
+<code>Artificial Intelligence</code><p><code>Data Analysis</code></p><code>Software Development</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ Building</h3>
+
+Improving real-world projects and sharpening my Python and development skills.
+
+<b>Next milestone:</b> more useful, polished tools.
+
+</td>
+</tr>
+</table>
+
+### `04 / FEATURED BUILD`
+
+<table>
+<tr>
+<td valign="top">
+
+<h3>🍽️ وجبتي | WAJBATI</h3>
+
+<b>Your ingredients. Your next meal.</b>
+
+A recipe discovery project that helps you find meals from ingredients you already have, with options for cooking time and dietary preferences.
+
+<p>
+<a href="https://wajbati-sa.vercel.app/"><img alt="Open Wajbati" src="https://img.shields.io/badge/OPEN_LIVE_APP-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Abdailh17/wajbati"><img alt="View Wajbati source" src="https://img.shields.io/badge/EXPLORE_CODE-071627?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+### `05 / GITHUB CONTROL PANEL`
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-0B1422?style=flat-square&logo=probot&logoColor=A5B4FC)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-0B1422?style=flat-square&logo=python&logoColor=A5B4FC)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0B1422?style=flat-square&logo=scikitlearn&logoColor=A5B4FC)
-![Web Development](https://img.shields.io/badge/Web_Development-0B1422?style=flat-square&logo=html5&logoColor=A5B4FC)
+[![Contribution Activity](https://img.shields.io/badge/VIEW_CONTRIBUTIONS-071627?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=overview)
+[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-071627?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=repositories)
+
+<sub>Live contributions are displayed by GitHub below this README on my profile.</sub>
 
 </div>
 
----
+<details>
+<summary><b>🧩 Open the developer terminal — AboutMe.py</b></summary>
 
-### 🚀 Featured Project
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Abdullah Badahdah"
+        self.major = "Artificial Intelligence"
+        self.university = "Umm Al-Qura University"
+        self.location = "Makkah, Saudi Arabia"
+        self.stack = ["Python", "OOP", "SQL", "Git", "Web Development"]
 
-#### 🍽️ [وجبتي | Wajbati](https://wajbati-sa.vercel.app/)
+    def goal(self):
+        return "Learn. Build. Improve."
+```
 
-**From what's in your kitchen to what you can cook.**
-
-A recipe discovery website that suggests meals based on your ingredients, cooking time, and dietary preferences.
-
-[![Try Wajbati](https://img.shields.io/badge/OPEN_LIVE_PROJECT-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://wajbati-sa.vercel.app/)
-[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-0B1422?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdailh17/wajbati)
-
----
-
-### 📊 GitHub Activity
+</details>
 
 <div align="center">
 
-**Real contributions, projects, and development activity**
+---
 
-[![Contribution Graph](https://img.shields.io/badge/CONTRIBUTION_GRAPH-0B1422?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=overview)
-[![My Repositories](https://img.shields.io/badge/MY_REPOSITORIES-0B1422?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Abdailh17?tab=repositories)
-
-<sub>GitHub shows the up-to-date contribution calendar on my profile.</sub>
+<sub>`END OF TRANSMISSION_` · Crafted for GitHub · Makkah, Saudi Arabia</sub>
 
 </div>
